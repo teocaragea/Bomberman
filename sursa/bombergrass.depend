@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1466330512 source:c:\users\nelu\desktop\teo projects\test1\main.cpp
+	<iostream>
+	<graphics.h>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+	<conio.h>
+	<cstring>
+	<time.h>
+
